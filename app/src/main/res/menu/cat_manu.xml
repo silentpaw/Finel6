@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/lovely_btn"
+        android:icon="@drawable/cat"
+        android:title="Любимые коты" />
+    <item
+        android:id="@+id/cutye_btn"
+        android:icon="@drawable/cat"
+        android:title="Милые коты" />
+    <item
+        android:id="@+id/beaty_btn"
+        android:icon="@drawable/cat"
+        android:title="Красивые коты" />
+    <item
+        android:id="@+id/street_bnt"
+        android:icon="@drawable/cat"
+        android:title="Уличные коты" />
+    <item
+    android:id="@+id/my_cat_btn"
+    android:icon="@drawable/cat"
+    android:title="Мой кот:)" />
+    <item
+        android:id="@+id/new_activity_btn"
+        android:icon="@drawable/activity"
+        android:title="След. Активность" />
+
+</menu>
